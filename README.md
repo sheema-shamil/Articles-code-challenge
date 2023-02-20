@@ -20,7 +20,15 @@ Installation
 5. Run rake db:migrate to set up the database
 6. Run ruby app.rb to start the application
 
+
+## Usage
+Once the application is running, you can create instances of the various classes and try out the methods that are available.
+
+
 ## Authors
 This project was contributed to by:
 * Sheema Shamil.
 
+## License
+
+The project is available as open source under the terms of the MIT License.
